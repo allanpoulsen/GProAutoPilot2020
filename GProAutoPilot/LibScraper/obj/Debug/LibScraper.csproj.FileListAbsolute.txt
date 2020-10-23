@@ -1,0 +1,9 @@
+C:\Users\licen\source\repos\GproAutoPilotEdge\GProAutoPilot\LibScraper\bin\Debug\LibScraper.dll
+C:\Users\licen\source\repos\GproAutoPilotEdge\GProAutoPilot\LibScraper\bin\Debug\LibScraper.pdb
+C:\Users\licen\source\repos\GproAutoPilotEdge\GProAutoPilot\LibScraper\bin\Debug\TypeGProData.dll
+C:\Users\licen\source\repos\GproAutoPilotEdge\GProAutoPilot\LibScraper\bin\Debug\TypeGProData.pdb
+C:\Users\licen\source\repos\GproAutoPilotEdge\GProAutoPilot\LibScraper\obj\Debug\LibScraper.csprojAssemblyReference.cache
+C:\Users\licen\source\repos\GproAutoPilotEdge\GProAutoPilot\LibScraper\obj\Debug\LibScraper.csproj.CoreCompileInputs.cache
+C:\Users\licen\source\repos\GproAutoPilotEdge\GProAutoPilot\LibScraper\obj\Debug\LibScraper.csproj.CopyComplete
+C:\Users\licen\source\repos\GproAutoPilotEdge\GProAutoPilot\LibScraper\obj\Debug\LibScraper.dll
+C:\Users\licen\source\repos\GproAutoPilotEdge\GProAutoPilot\LibScraper\obj\Debug\LibScraper.pdb

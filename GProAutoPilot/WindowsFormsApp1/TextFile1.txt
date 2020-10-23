@@ -1,0 +1,6 @@
+﻿Lav flere batches:
+
+range fra 1-4
+range fra 3-6
+range fra 4-7
+range fra 6-9

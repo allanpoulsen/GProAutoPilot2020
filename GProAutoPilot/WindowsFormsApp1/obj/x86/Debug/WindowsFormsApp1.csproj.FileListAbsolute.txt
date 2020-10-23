@@ -1,0 +1,12 @@
+C:\Users\licen\source\repos\GproAutoPilotEdge\GProAutoPilot\WindowsFormsApp1\bin\x86\Debug\WindowsFormsApp1.exe.config
+C:\Users\licen\source\repos\GproAutoPilotEdge\GProAutoPilot\WindowsFormsApp1\bin\x86\Debug\WindowsFormsApp1.exe
+C:\Users\licen\source\repos\GproAutoPilotEdge\GProAutoPilot\WindowsFormsApp1\bin\x86\Debug\WindowsFormsApp1.pdb
+C:\Users\licen\source\repos\GproAutoPilotEdge\GProAutoPilot\WindowsFormsApp1\bin\x86\Debug\Microsoft.Toolkit.Forms.UI.Controls.WebView.dll
+C:\Users\licen\source\repos\GproAutoPilotEdge\GProAutoPilot\WindowsFormsApp1\bin\x86\Debug\Microsoft.Toolkit.Forms.UI.Controls.WebView.pdb
+C:\Users\licen\source\repos\GproAutoPilotEdge\GProAutoPilot\WindowsFormsApp1\obj\x86\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\licen\source\repos\GproAutoPilotEdge\GProAutoPilot\WindowsFormsApp1\obj\x86\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\licen\source\repos\GproAutoPilotEdge\GProAutoPilot\WindowsFormsApp1\obj\x86\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\licen\source\repos\GproAutoPilotEdge\GProAutoPilot\WindowsFormsApp1\obj\x86\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\licen\source\repos\GproAutoPilotEdge\GProAutoPilot\WindowsFormsApp1\obj\x86\Debug\WindowsFormsApp1.csproj.CopyComplete
+C:\Users\licen\source\repos\GproAutoPilotEdge\GProAutoPilot\WindowsFormsApp1\obj\x86\Debug\WindowsFormsApp1.exe
+C:\Users\licen\source\repos\GproAutoPilotEdge\GProAutoPilot\WindowsFormsApp1\obj\x86\Debug\WindowsFormsApp1.pdb

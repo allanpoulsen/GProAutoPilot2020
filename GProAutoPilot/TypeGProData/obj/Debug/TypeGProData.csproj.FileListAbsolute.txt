@@ -1,0 +1,5 @@
+C:\Users\licen\source\repos\GproAutoPilotEdge\GProAutoPilot\TypeGProData\bin\Debug\TypeGProData.dll
+C:\Users\licen\source\repos\GproAutoPilotEdge\GProAutoPilot\TypeGProData\bin\Debug\TypeGProData.pdb
+C:\Users\licen\source\repos\GproAutoPilotEdge\GProAutoPilot\TypeGProData\obj\Debug\TypeGProData.csproj.CoreCompileInputs.cache
+C:\Users\licen\source\repos\GproAutoPilotEdge\GProAutoPilot\TypeGProData\obj\Debug\TypeGProData.dll
+C:\Users\licen\source\repos\GproAutoPilotEdge\GProAutoPilot\TypeGProData\obj\Debug\TypeGProData.pdb

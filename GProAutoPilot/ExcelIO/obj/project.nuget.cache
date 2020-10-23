@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "1t0BT7qzSX9YTCkZexzSg6WTXAGg2WCmObAhoac1XwCpIk8knASs2Y9Mq8UKJ9u5Yto3/9GbUg7WnyGm7PXHmA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\licen\\source\\repos\\GproAutoPilotEdge\\GProAutoPilot\\ExcelIO\\ExcelIO.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\licen\\.nuget\\packages\\documentformat.openxml\\2.11.3\\documentformat.openxml.2.11.3.nupkg.sha512",
+    "C:\\Users\\licen\\.nuget\\packages\\system.io.packaging\\4.7.0\\system.io.packaging.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}

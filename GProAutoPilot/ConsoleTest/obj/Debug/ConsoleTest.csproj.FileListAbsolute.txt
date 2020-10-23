@@ -1,0 +1,12 @@
+C:\Users\licen\source\repos\GproAutoPilotEdge\GProAutoPilot\ConsoleTest\bin\Debug\ConsoleTest.exe.config
+C:\Users\licen\source\repos\GproAutoPilotEdge\GProAutoPilot\ConsoleTest\bin\Debug\ConsoleTest.exe
+C:\Users\licen\source\repos\GproAutoPilotEdge\GProAutoPilot\ConsoleTest\bin\Debug\ConsoleTest.pdb
+C:\Users\licen\source\repos\GproAutoPilotEdge\GProAutoPilot\ConsoleTest\bin\Debug\LibScraper.dll
+C:\Users\licen\source\repos\GproAutoPilotEdge\GProAutoPilot\ConsoleTest\bin\Debug\TypeGProData.dll
+C:\Users\licen\source\repos\GproAutoPilotEdge\GProAutoPilot\ConsoleTest\bin\Debug\LibScraper.pdb
+C:\Users\licen\source\repos\GproAutoPilotEdge\GProAutoPilot\ConsoleTest\bin\Debug\TypeGProData.pdb
+C:\Users\licen\source\repos\GproAutoPilotEdge\GProAutoPilot\ConsoleTest\obj\Debug\ConsoleTest.csprojAssemblyReference.cache
+C:\Users\licen\source\repos\GproAutoPilotEdge\GProAutoPilot\ConsoleTest\obj\Debug\ConsoleTest.csproj.CoreCompileInputs.cache
+C:\Users\licen\source\repos\GproAutoPilotEdge\GProAutoPilot\ConsoleTest\obj\Debug\ConsoleTest.csproj.CopyComplete
+C:\Users\licen\source\repos\GproAutoPilotEdge\GProAutoPilot\ConsoleTest\obj\Debug\ConsoleTest.exe
+C:\Users\licen\source\repos\GproAutoPilotEdge\GProAutoPilot\ConsoleTest\obj\Debug\ConsoleTest.pdb

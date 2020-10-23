@@ -1,0 +1,4 @@
+C:\Users\licen\source\repos\GproAutoPilotEdge\GProAutoPilot\ExcelIO\bin\Debug\netcoreapp3.1\ExcelIO.exe
+C:\Users\licen\source\repos\GproAutoPilotEdge\GProAutoPilot\ExcelIO\obj\Debug\netcoreapp3.1\ExcelIO.csprojAssemblyReference.cache
+C:\Users\licen\source\repos\GproAutoPilotEdge\GProAutoPilot\ExcelIO\obj\Debug\netcoreapp3.1\ExcelIO.AssemblyInfoInputs.cache
+C:\Users\licen\source\repos\GproAutoPilotEdge\GProAutoPilot\ExcelIO\obj\Debug\netcoreapp3.1\ExcelIO.AssemblyInfo.cs
